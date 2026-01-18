@@ -1,0 +1,4 @@
+id_venta,fecha,id_producto,id_vendedor,cantidad
+4,2025-01-06,P002,V002,30
+5,2025-01-15,P001,V002,10
+6,2025-01-24,P003,V002,120
