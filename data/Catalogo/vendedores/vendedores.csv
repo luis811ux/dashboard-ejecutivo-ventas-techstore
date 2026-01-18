@@ -1,0 +1,4 @@
+id_vendedor,nombre_vendedor,region,porcentaje_comision,meta
+V001,Carlos,Bogota,0.07,110000000
+V002,Ana,Medellin,0.06,110000000
+V003,Luis,Cali,0.05,110000000
